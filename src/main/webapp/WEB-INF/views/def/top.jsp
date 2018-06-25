@@ -61,7 +61,7 @@
     .clearfix{zoom:1;}
     .nav-left{float:left; width:198px; border-right:1px solid #ccc; text-align:center; line-height:50px; font-size:26px; font-weight:700;color:#fff;}
     .nav-right{float:left; width:800px;}
-    .nav-right a{display:inline-block; width:150px; line-height:50px; text-align:center; color:#fff; font-size:18px; font-weight:600;}
+    .nav-right a{display:inline-block; width:125px; line-height:50px; text-align:center; color:#fff; font-size:18px; font-weight:600;}
 	.clearfix:after{clear:both; content:'';display:block;}
 	.header .div_sear .sel{cursor:pointer; margin-right:3px; line-height:40px; width:100px; text-align:center; height:40px; background:#fff; float:left;position:relative;}
 	.header .div_sear input{width:300px;float:left;}
@@ -134,9 +134,10 @@
 <div class="top-nav clearfix">
     	<a href="/index/index"><div class="nav-left">国睿招标</div></a>
     	<div class="nav-right">
-    		<a href="/index/index">平台首页</a>
     		<a href="/messageData/goSearch?messagetype=1">招标公告</a>
     		<a href="/messageData/goSearch?messagetype=2">中标公示</a>
+			<a href="/messageData/goSearch?messagetype=6">招标预告</a>
+			<a href="/messageData/goSearch?messagetype=3">变更公告</a>
     		<a href="/messageData/goSearch?messagetype=4">拟在建项目</a>
     		<a href="/messageData/goSearch?messagetype=5">VIP独家</a>
     	</div>
