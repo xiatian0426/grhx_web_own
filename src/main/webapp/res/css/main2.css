@@ -340,7 +340,7 @@ a, a:visited {
 .kuang_list {
     line-height: 26px;
     background-color: #f9f9f9;
-    padding: 7px 13px 10px 13px;
+    padding: 3px 13px 5px 13px;
 }
 
 .nn_left {
@@ -1477,7 +1477,8 @@ a, a:visited {
 
     .accoradion ul {
         overflow: hidden;
-        background: #fff;
+        /*background: #fff;*/
+        padding: 3px 13px 5px 8px;
     }
 
     .accoradion li a.header {
@@ -2056,7 +2057,7 @@ a, a:visited {
 
 
 #accoradion02 li li {
-    padding: 0px 13px 0px 13px !important;
+    padding: 0px 0px 0px 0px !important;
     padding: 10px 13px 0px 13px;
     _padding: 10px;
     height: 218px;

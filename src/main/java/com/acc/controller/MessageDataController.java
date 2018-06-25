@@ -222,7 +222,7 @@ public class MessageDataController {
 		Map<String, Object> map = new HashMap<String, Object>();
 		map.put("frontmodule", frontmodule);
 		map.put("messagetype", messagetype);
-		map.put("num", 3);
+		map.put("num", 5);
 		List<GrhxMessageData> messageDataList = grhxMessageDataService.getFrontmoduleByMessagetype(map);
 		model.put("messageDataList", messageDataList);
 		mav=new ModelAndView("/data/messagetype", model);
