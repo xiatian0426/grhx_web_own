@@ -12,7 +12,7 @@
 <!--      		<acc.root.local>47.94.130.37</acc.root.local>      -->
        		<acc.root.local>localhost</acc.root.local>       
 <!--    		<acc.root.local>www.bidwin.cn</acc.root.local>    -->
-		<acc.web.port>80</acc.web.port>
+		<acc.web.port>8081</acc.web.port>
 	</properties>
 	<dependencies>
 		<dependency>  
