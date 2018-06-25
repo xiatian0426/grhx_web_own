@@ -105,7 +105,7 @@ body, span, p, ul, table, tr, td, li, h1, h2, h3, h4, h5, h6 {
 .header .h-bg{
 	width: 100%;
 	height: auto;
-	background-color: #3d83cc;
+	/*background-color: #3d83cc;*/
 }
 .header .h-con{
 	width: 1000px;
