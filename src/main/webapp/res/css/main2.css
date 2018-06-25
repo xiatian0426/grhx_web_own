@@ -859,7 +859,7 @@ a, a:visited {
     height: 515px;
     *height: 514px;
     _height: 512px;
-    background-color: #f8f8f8;
+    /*background-color: #f8f8f8;*/
     border-left: 1px solid #e7e7e7;
     border-right: 1px solid #e7e7e7;
 }

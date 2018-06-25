@@ -266,14 +266,14 @@
                         <li class="active">
                             <a href="#" target="_blank" class="header closed opened"
                                style="font-size: 18px;font-weight: bold;">
-                                <em class="">&nbsp;</em>服务
+                                <em class="">&nbsp;</em>物业
                             </a>
                             <ul style="display: block; height: 130px;">
                                 <li style="display: block;">
                                     <div class="tubiaoHH">
                                         <div class="fl_liet">
                                             <span class="dddd">
-                                                <img src="${imageRoot }/member_2.png" height="100" width="230">
+                                                <img src="${imageRoot }/member_2.png" height="120px" width="200px">
                                             </span>
                                         </div>
                                     </div>
@@ -283,14 +283,14 @@
                         <li class="active">
                             <a href="#" target="_blank" class="header closed opened"
                                style="font-size: 18px;font-weight: bold;">
-                                <em class="">&nbsp;</em>工程
+                                <em class="">&nbsp;</em>保洁
                             </a>
                             <ul style="display: block; height: 130px;">
                                 <li style="display: block;">
                                     <div class="tubiaoHH">
                                         <div class="fl_liet">
                                             <span class="dddd">
-                                                <img src="${imageRoot }/member_2.png" height="100" width="230">
+                                                <img src="${imageRoot }/member_2.png" height="120px" width="200px">
                                             </span>
                                         </div>
                                     </div>
@@ -300,31 +300,31 @@
                         <li class="active">
                             <a href="#" target="_blank" class="header closed opened"
                                style="font-size: 18px;font-weight: bold;">
-                                <em class="">&nbsp;</em>设备
+                                <em class="">&nbsp;</em>保安
                             </a>
                             <ul style="display: block; height: 130px;">
                                 <li style="display: block;">
                                     <div class="tubiaoHH">
                                         <div class="fl_liet">
                                             <span class="dddd">
-                                                <img src="${imageRoot }/member_2.png" height="100" width="230">
+                                                <img src="${imageRoot }/member_2.png" height="120px" width="200px">
                                             </span>
                                         </div>
                                     </div>
                                 </li>
                             </ul>
                         </li>
-                        <li class="active">
+                        <li class="active" style="border-left:1px solid #e7e7e7;border-right:1px solid #e7e7e7;">
                             <a href="#" target="_blank" class="header closed opened"
                                style="font-size: 18px;font-weight: bold;">
-                                <em class="">&nbsp;</em>产品
+                                <em class="">&nbsp;</em>其它
                             </a>
                             <ul style="display: block; height: 130px;">
                                 <li style="display: block;">
                                     <div class="tubiaoHH">
                                         <div class="fl_liet">
                                             <span class="dddd">
-                                                <img src="${imageRoot }/member_2.png" height="100" width="230">
+                                                <img src="${imageRoot }/member_2.png" height="120px" width="200px">
                                             </span>
                                         </div>
                                     </div>
