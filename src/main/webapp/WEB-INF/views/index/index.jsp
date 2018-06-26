@@ -120,11 +120,9 @@
                         <div class="clear">
                         </div>
                     </div>
-                    <div class="item">
+                    <div class="item" style="background-color:#f9f9f9">
                         <div class="kuang_list">
                             <c:import url="/messageData/getProjectData?frontmodule=2"/>
-                        </div>
-                        <div class="clear">
                         </div>
                     </div>
                 </div>

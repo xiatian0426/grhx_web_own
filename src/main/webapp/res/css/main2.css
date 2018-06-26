@@ -449,7 +449,8 @@ a, a:visited {
 
 .yi_center .kuang_list {
     float: left;
-    width: 219px;
+    width: 465px;
+    border:1px solid #e7e7e7;
 }
 
 .yi_center .item .kuang_list ul li {
