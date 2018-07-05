@@ -594,25 +594,22 @@
                     <ul>
                         <li class="huadong" style="width: 100%;">
                             <a href="http://www.ecpmi.org.cn/" target="_blank">中国物业管理协会</a>
-                            <a href="http://www.caepi.org.cn/" target="_blank">中国环境保护产业协会</a>
-                            <a href="http://www.fjgpc.cn/" target="_blank">陕西招标网福建省政府采购中心</a>
-                            <a href="http://www.cida.org.cn/" target="_blank">中国室内装饰协会</a>
-                            <a href="http://www.ndrc.gov.cn/" target="_blank">国家发展改革委员会</a>
-                            <a href="http://www.dv37.com/" target="_blank">加盟网</a>
-                            <a href="www.bidwin.cn" target="_blank">国睿招标网</a>
-                            <br/>
-                            <a href="http://www.caec.org.cn/" target="_blank">中国展览馆协会</a>
-                            <a href="www.bidwin.cn" target="_blank">项目网</a>
+                            <a href="http://www.zgwyhyxh.org/" target="_blank">中国物业行业管理协会</a>
+                            <a href="http://www.zgba.org/" target="_blank">中国保安协会</a>
+                            <a href="www.zhongxiangzhaobiao.com" target="_blank">中项招标网</a>
                             <a href="http://www.ctba.org.cn/" target="_blank">中国招标投标协会</a>
-                            <a href="http://www.acla.org.cn/home/toPage" target="_blank">中国律师网</a>
-                            <a href="http://china-jt.com/" target="_blank">高速招标网</a>
-                            <a href="www.bidwin.cn" target="_blank">招标网</a>
-                            <a href="https://bj.lianjia.com/" target="_blank">北京房产网</a>
-                            <a href="http://www.114chn.com/" target="_blank">114黄页</a>
-                            <a href="http://jobs.zhaopin.com/" target="_blank">人才网</a>
-                            <a href="https://www.chinapp.com/" target="_blank">中国品牌网</a>
-                            <a href="http://www.k18.com" target="_blank">中国餐饮加盟网</a>
-                            <a href="https://www.autohome.com.cn" target="_blank">汽车之家</a>
+                            <a href="http://www.chinaclean.org/html/index.html" target="_blank">中国清洁网</a>
+                            <a href="http://120.55.118.116:9080/" target="_blank">北京物业管理行业协会</a>
+                            <a href="http://www.szpmi.org/" target="_blank">深圳市物业管理行业协会</a>
+                            <br/>
+                            <a href="http://www.shwy.org.cn/shwyWeb/" target="_blank">上海市物业管理行业协会</a>
+                            <a href="http://60.28.130.106:81/wyxh/" target="_blank">天津市物业管理协会</a>
+                            <a href="http://www.cqpma.com/" target="_blank">重庆物业管理协会</a>
+                            <a href="http://www.fjwygl.org.cn/" target="_blank">福建省物业管理协会</a>
+                            <a href="http://www.gdsbaxh.com/" target="_blank">广东省保安协会</a>
+                            <a href="http://www.bjbaw.cn/" target="_blank">北京保安网</a>
+                            <a href="http://www.jsbaw.net:1818/index.html" target="_blank">江苏保安协会</a>
+                            <a href="http://www.hbclean.org/" target="_blank">湖北省清洗保洁行业协会</a>
                         </li>
                     </ul>
                 </div>
