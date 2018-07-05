@@ -75,7 +75,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="kuang_list">
+                    <div class="kuang_list" style="height: 259px;">
                         <c:import url="/messageData/getHotMessageData?frontmodule=1"/>
                     </div>
                 </div>
@@ -121,7 +121,7 @@
                         </div>
                     </div>
                     <div class="item" style="background-color:#f9f9f9">
-                        <div class="kuang_list">
+                        <div class="kuang_list" style="height: 128px;">
                             <c:import url="/messageData/getProjectData?frontmodule=2"/>
                         </div>
                     </div>
@@ -222,7 +222,7 @@
                         <div class="kuang_list" id="golist">
                             <ul>
                                 <c:forEach items="${frontDataThreeList}" var="frontData">
-                                    <li>
+                                    <li style="height: 24px">
                                         <span class="nn_left" style="width: 230px;"><a href="${frontData.url }"
                                                                                        title="${frontData.name }"
                                                                                        target="_blank">${frontData.name }</a></span>
