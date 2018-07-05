@@ -271,7 +271,7 @@
                                     <div class="tubiaoHH">
                                         <div class="fl_liet">
                                             <span class="dddd">
-                                                <a href="/messageData/goSearch?title=物业" target="_blank">
+                                                <a href="/messageData/goSearch?title=物业" target="_blank" style="padding-left:3px;">
                                                     <img src="${imageRoot }/area_1.png" height="120px" width="200px">
                                                 </a>
                                             </span>
@@ -290,7 +290,7 @@
                                     <div class="tubiaoHH">
                                         <div class="fl_liet">
                                             <span class="dddd">
-                                                <a href="/messageData/goSearch?title=保洁" target="_blank">
+                                                <a href="/messageData/goSearch?title=保洁" target="_blank" style="padding-left:3px;">
                                                     <img src="${imageRoot }/area_3.png" height="120px" width="200px">
                                                 </a>
                                             </span>
@@ -309,7 +309,7 @@
                                     <div class="tubiaoHH">
                                         <div class="fl_liet">
                                             <span class="dddd">
-                                                <a href="/messageData/goSearch?title=保安" target="_blank">
+                                                <a href="/messageData/goSearch?title=保安" target="_blank" style="padding-left:3px;">
                                                     <img src="${imageRoot }/area_2.png" height="120px" width="200px">
                                                 </a>
                                             </span>
@@ -344,7 +344,7 @@
                         </li>
                         <li class="li_last" style="border:1px solid #e7e7e7; border-top:0;height: 238px;">
                             <a href="#" target="_blank" class="header closed opened"
-                               style="font-size: 18px;font-weight: bold;">
+                               style="font-size: 18px;font-weight: bold;color: #fff;background-color: #f30d0d; ">
                                 <em class="">&nbsp;</em>展会信息
                             </a>
                             <ul style="padding-top:12px; padding-bottom:9px;">
@@ -359,7 +359,7 @@
                     <div class="n_title" id="move-animate-top1">
                         <h3 class="x_hua" style="font-size: 18px;font-weight: bold;">
                             <a href="/messageData/goSearch?messagetype=5" title="" target="_blank" class="ff"
-                               style="font-size: 18px;font-weight: bold;">VIP独家</a>
+                               style="font-size: 18px;font-weight: bold;background-color: #fff;color: #f30d0d;">VIP独家</a>
                         </h3>
                         <div class="clear"></div>
                     </div>
@@ -371,7 +371,7 @@
                     <div class="n_title" id="move-animate-top1">
                         <h3 class="x_hua" style="font-size: 18px;font-weight: bold;">
                             <a href="/messageData/goSearch?messagetype=4" title="" target="_blank" class="ff"
-                               style="font-size: 18px;font-weight: bold;">拟在建项目</a>
+                               style="font-size: 18px;font-weight: bold;background-color: #fff;color: #f30d0d;">拟在建项目</a>
                         </h3>
                         <div class="clear"></div>
                     </div>
@@ -383,7 +383,7 @@
                     <div class="n_title" id="move-animate-top1">
                         <h3 class="x_hua" style="font-size: 18px;font-weight: bold;">
                             <a href="/messageData/goSearch?messagetype=1" title="" target="_blank" class="ff"
-                               style="font-size: 18px;font-weight: bold;">招标公告</a>
+                               style="font-size: 18px;font-weight: bold;background-color: #fff;color: #f30d0d;">招标公告</a>
                         </h3>
                         <div class="clear"></div>
                     </div>
@@ -395,7 +395,7 @@
                     <div class="n_title" id="move-animate-top1">
                         <h3 class="x_hua" style="font-size: 18px;font-weight: bold;">
                             <a href="/messageData/goSearch?messagetype=2" title="" target="_blank" class="ff"
-                               style="font-size: 18px;font-weight: bold;">中标公告</a></h3>
+                               style="font-size: 18px;font-weight: bold;background-color: #fff;color: #f30d0d;">中标公告</a></h3>
                         <div class="clear"></div>
                     </div>
                     <div class="n_content" id="con_BC_1" style="padding-bottom: 0;">
@@ -405,7 +405,7 @@
                 <div class="notice" style="height: 187px;">
                     <div class="n_title clearfix" id="tab-div" style="border:0px solid #1d59bd;">
                         <div class="no_left" id="BCC1">
-                            <a href="/messageData/goSearchProprietor?type=1" style="font-size: 15px;font-weight: bold;"><b>业主库</b></a>
+                            <a href="/messageData/goSearchProprietor?type=1" style="font-size: 15px;font-weight: bold;background-color: #fff;color: #f30d0d;"><b>业主库</b></a>
                         </div>
                         <div class="no_right" id="BCC2">
                             <a href="/messageData/goSearchProprietor?type=2" style="font-size: 15px;font-weight: bold;"><b>设计院库</b></a>
@@ -487,10 +487,10 @@
                 </div>
 
                 <div class="kuang" style="height: 235px;">
-                    <div class="title2">
+                    <div class="title2" style="background-color: #f30d0d;">
                         <h3 class="Y-t">
                             <a href="#" title="" target="_blank" class="rightcss"
-                               style="font-size: 18px;font-weight: bold;">行业动态</a>
+                               style="font-size: 18px;font-weight: bold;color: #fff;">行业动态</a>
                         </h3>
                         <div class="clear"></div>
                     </div>

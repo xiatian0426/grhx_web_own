@@ -56,16 +56,16 @@
 </script>
 </head>
 <style>
-    .top-nav{width:1000px; height:50px; background:#1d59bd; margin:0 auto;}
+    .top-nav{width:1000px; height:50px; background:#ee4735; margin:0 auto;}
     .clearfix:after{display:block; content:'';clear:both;}
-    .clearfix{zoom:1;border:1px solid #1d59bd;}
+    .clearfix{zoom:1;border:1px solid #ee4735;}
     .nav-left{float:left; width:198px; border-right:1px solid #ccc; text-align:center; line-height:50px; font-size:26px; font-weight:700;color:#fff;}
     .nav-right{float:left; width:800px;}
     .nav-right a{display:inline-block; width:125px; line-height:50px; text-align:center; color:#fff; font-size:18px; font-weight:600;}
 	.clearfix:after{clear:both; content:'';display:block;}
 	.header .div_sear .sel{cursor:pointer; margin-right:3px; line-height:40px; width:100px; text-align:center; height:40px; background:#fff; float:left;position:relative;}
 	.header .div_sear input{width:300px;float:left;}
-	.header .div_sear span{ width:60px; height:40px; font-weight:600; color:#fff; text-align:center; border:none; float:left; line-height:40px; cursor:pointer; background:#1d59bd;}
+	.header .div_sear span{ width:60px; height:40px; font-weight:600; color:#fff; text-align:center; border:none; float:left; line-height:40px; cursor:pointer; background:#ee4735;}
 	.sel{position:relative;}
 	.selected{background:url(${imageRoot }/icon2.jpg) 68px 17px no-repeat;}
 	.sel .selBox{position:absolute; left:0; top:40px; background:#fff; width:100%; display:none;}
@@ -76,7 +76,7 @@
 	<div class="h-banner">
 	    <div class="hleft">
 	    	<% if(flag){%>
-	    		您好！<a class="zcbtn1" target="_blank" href="#" style="color: red;font-size: 16px;line-height:18px;"><%=userid%></a>，欢迎来到国睿招标
+	    		您好！<a class="zcbtn1" target="_blank" href="#" style="color: red;font-size: 16px;line-height:18px;"><%=userid%></a>，欢迎来到物业招标网
 	    		<a class="dlbtn" href="/account/logout">注销</a>
 	    	<%}else{%>
 	    		<a class="zcbtn" href="/account/goRegister">注册</a>
@@ -132,7 +132,7 @@
     </div>
 </div>
 <div class="top-nav clearfix">
-    	<a href="/index/index"><div class="nav-left">国睿招标</div></a>
+    	<a href="/index/index"><div class="nav-left">物业招标网</div></a>
     	<div class="nav-right">
     		<a href="/messageData/goSearch?messagetype=1">招标公告</a>
     		<a href="/messageData/goSearch?messagetype=2">中标公示</a>

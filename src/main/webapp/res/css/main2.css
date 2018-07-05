@@ -958,7 +958,7 @@ a, a:visited {
     }
 
 .no_left a {
-    border-top: 2px solid #444444;
+    border-top: 2px solid #f30d0d;
     display: block;
    
     background-color: #ffffff;
