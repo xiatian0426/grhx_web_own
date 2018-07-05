@@ -56,7 +56,7 @@
 <jsp:include page="../def/top.jsp"/>
 
 <div id="middle">
-    <a href="http://fypac.com/" target="_blank"><img src="${imageRoot }/hengfu1.png" width="100%" height="80px;"/></a>
+    <a href="http://agile-living.agile.com.cn/yjl/Index/index" target="_blank"><img src="${imageRoot }/hengfu1.png" width="100%" height="80px;"/></a>
 </div>
 <div class="content">
     <div id="middle">
@@ -85,22 +85,22 @@
                 <div class="hot_banner">
                     <div class="main_visual">
                         <div class="flicking_con">
-                            <a class="a01" href="http://www.ynsslaw.com/Default.aspx" target="_blank">1</a>
-                            <a class="a01" href="http://www.topsky.com.cn/topskyNew/index.aspx" target="_blank">2</a>
-                            <a class="a03" href="http://www.gemdale-pm.com/Default.aspx" target="_blank">3</a>
-                            <a href="http://www.whlaw.cn/" target="_blank">4</a>
-                            <a href="http://www.security.sh.cn/" target="_blank">5</a>
+                            <a class="a01" href="http://www.kleclean.com/index.asp" target="_blank">1</a>
+                            <a class="a01" href="http://www.chinacityguard.com.cn/" target="_blank">2</a>
+                            <a class="a03" href="http://www.hzbjwy.com/" target="_blank">3</a>
+                            <a href="http://www.cspbj.com/" target="_blank">4</a>
+                            <a href="http://www.cc-pg.cn/index.aspx" target="_blank">5</a>
                         </div>
                         <div class="main_image">
                             <ul>
-                                <li><a href="http://www.gemdale-pm.com/Default.aspx" target="_blank"><span
+                                <li><a href="http://www.hzbjwy.com/" target="_blank"><span
                                         class="img_3"></span></a></li>
-                                <li><a href="http://www.whlaw.cn/" target="_blank"><span class="img_4"></span></a></li>
-                                <li><a href="http://www.snfchina.com" target="_blank"><span class="img_1"></span></a>
+                                <li><a href="http://www.cspbj.com/" target="_blank"><span class="img_4"></span></a></li>
+                                <li><a href="http://www.cc-pg.cn/index.aspx" target="_blank"><span class="img_1"></span></a>
                                 </li>
-                                <li><a href="http://www.topsky.com.cn/topskyNew/index.aspx" target="_blank"><span
+                                <li><a href="http://www.chinacityguard.com.cn/" target="_blank"><span
                                         class="img_2"></span></a></li>
-                                <li><a href="http://www.ynsslaw.com/Default.aspx" target="_blank"><span
+                                <li><a href="http://www.kleclean.com/index.asp" target="_blank"><span
                                         class="img_5"></span></a></li>
                             </ul>
                             <a href="javascript:;" id="btn_prev"></a>
@@ -252,7 +252,7 @@
         </div>
         <!--首页第一栏结尾-->
         <div id="middle">
-            <a href="http://www.rqxghg.com/cn/index.asp" target="_blank"><img src="${imageRoot }/hengfu2.png"
+            <a href="http://www.henganweishi.com/" target="_blank"><img src="${imageRoot }/hengfu2.png"
                                                                               width="100%" height="80px;"/></a>
         </div>
         <!--招标专区-->
@@ -271,7 +271,9 @@
                                     <div class="tubiaoHH">
                                         <div class="fl_liet">
                                             <span class="dddd">
-                                                <img src="${imageRoot }/member_2.png" height="120px" width="200px">
+                                                <a href="/messageData/goSearch?title=物业" target="_blank">
+                                                    <img src="${imageRoot }/area_1.png" height="120px" width="200px">
+                                                </a>
                                             </span>
                                         </div>
                                     </div>
@@ -288,7 +290,9 @@
                                     <div class="tubiaoHH">
                                         <div class="fl_liet">
                                             <span class="dddd">
-                                                <img src="${imageRoot }/member_2.png" height="120px" width="200px">
+                                                <a href="/messageData/goSearch?title=保洁" target="_blank">
+                                                    <img src="${imageRoot }/area_3.png" height="120px" width="200px">
+                                                </a>
                                             </span>
                                         </div>
                                     </div>
@@ -305,24 +309,33 @@
                                     <div class="tubiaoHH">
                                         <div class="fl_liet">
                                             <span class="dddd">
-                                                <img src="${imageRoot }/member_2.png" height="120px" width="200px">
+                                                <a href="/messageData/goSearch?title=保安" target="_blank">
+                                                    <img src="${imageRoot }/area_2.png" height="120px" width="200px">
+                                                </a>
                                             </span>
                                         </div>
                                     </div>
                                 </li>
                             </ul>
                         </li>
-                        <li class="active" style="border-left:1px solid #e7e7e7;border-right:1px solid #e7e7e7;">
-                            <a href="#" target="_blank" class="header closed opened"
-                               style="font-size: 18px;font-weight: bold;">
+                        <li class="active" style="height: 169px;border-left:1px solid #e7e7e7;border-right:1px solid #e7e7e7;">
+                            <a href="#" target="_blank" class="header closed opened" style="font-size: 18px;font-weight: bold;">
                                 <em class="">&nbsp;</em>其它
                             </a>
-                            <ul style="display: block; height: 130px;">
+                            <ul style="display: block; height: 100px;">
                                 <li style="display: block;">
                                     <div class="tubiaoHH">
-                                        <div class="fl_liet">
+                                        <div class="fl_liet" style="margin-top: 15px;">
                                             <span class="dddd">
-                                                <img src="${imageRoot }/member_2.png" height="120px" width="200px">
+                                                <a href="/messageData/goSearch?title=物业" target="_blank" title="">物业</a>
+                                                <a href="/messageData/goSearch?title=保安" target="_blank" title="" class="duoyu">保安</a>
+                                                <a href="/messageData/goSearch?title=保洁" target="_blank" title="">保洁</a>
+                                                <a href="/messageData/goSearch?title=安保" target="_blank" title="" class="duoyu">安保</a>
+                                                <a href="/messageData/goSearch?title=清洁" target="_blank" title="">清洁</a>
+                                                <a href="/messageData/goSearch?title=清洗" target="_blank" title="" class="duoyu">清洗</a>
+                                                <a href="/messageData/goSearch?title=开荒" target="_blank" title="">开荒</a>
+                                                <a href="/messageData/goSearch?title=家政" target="_blank" title="" class="duoyu">家政</a>
+                                                <div class="clear"> </div>
                                             </span>
                                         </div>
                                     </div>
@@ -430,35 +443,35 @@
                         <ul>
                             <li>
                                 <div class="ico_t_pic" style="border-bottom: 1px solid #e7e7e7;width:233px;"><a
-                                        href="http://www.qinfang.cn/" target="_blank">
+                                        href="https://www.vankeservice.com/" target="_blank">
                                     <img src="${imageRoot }/member_1.png" height="61" width="230">
                                 </a></div>
                                 <div class="clear"></div>
                             </li>
                             <li>
                                 <div class="ico_t_pic" style="border-bottom: 1px solid #e7e7e7;width:233px;"><a
-                                        href="http://www.qdnasen.com/" target="_blank">
+                                        href="http://www.lvchengfuwu.com/" target="_blank">
                                     <img src="${imageRoot }/member_2.png" height="61" width="230">
                                 </a></div>
                                 <div class="clear"></div>
                             </li>
                             <li>
                                 <div class="ico_t_pic" style="border-bottom: 1px solid #e7e7e7;width:233px;"><a
-                                        href="http://www.qdnasen.com/" target="_blank">
-                                    <img src="${imageRoot }/member_2.png" height="61" width="230">
-                                </a></div>
-                                <div class="clear"></div>
-                            </li>
-                            <li>
-                                <div class="ico_t_pic" style="border-bottom: 1px solid #e7e7e7;width:233px;"><a
-                                        href="http://www.qdnasen.com/" target="_blank">
-                                    <img src="${imageRoot }/member_2.png" height="61" width="230">
-                                </a></div>
-                                <div class="clear"></div>
-                            </li>
-                            <li>
-                                <div class="ico_t_pic"><a href="http://www.netstar-soft.com/index.html" target="_blank">
+                                        href="http://www.hxza.com/" target="_blank">
                                     <img src="${imageRoot }/member_3.png" height="61" width="230">
+                                </a></div>
+                                <div class="clear"></div>
+                            </li>
+                            <li>
+                                <div class="ico_t_pic" style="border-bottom: 1px solid #e7e7e7;width:233px;"><a
+                                        href="http://www.shqjet.com/" target="_blank">
+                                    <img src="${imageRoot }/member_4.png" height="61" width="230">
+                                </a></div>
+                                <div class="clear"></div>
+                            </li>
+                            <li>
+                                <div class="ico_t_pic"><a href="http://www.itcpm.com/category.aspx?NodeID=1&siteid=27546" target="_blank">
+                                    <img src="${imageRoot }/member_5.png" height="61" width="230">
                                 </a></div>
                                 <div class="clear"></div>
                             </li>
@@ -496,7 +509,7 @@
             <div class="clear"></div>
         </div>
         <div id="middle">
-            <a href="http://www.henganweishi.com/" target="_blank"><img src="${imageRoot }/hengfu3.png" width="100%"
+            <a href="http://www.xywy168.com/" target="_blank"><img src="${imageRoot }/hengfu3.png" width="100%"
                                                                         height="80px;"/></a>
         </div>
         <div class="other">
