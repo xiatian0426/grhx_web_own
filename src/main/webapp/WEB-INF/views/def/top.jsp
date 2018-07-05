@@ -56,9 +56,9 @@
 </script>
 </head>
 <style>
-    .top-nav{width:1000px; height:50px; background:#ee4735; margin:0 auto;}
+    .top-nav{width:1000px; height:50px; background:#1d59bd; margin:0 auto; }
     .clearfix:after{display:block; content:'';clear:both;}
-    .clearfix{zoom:1;border:1px solid #ee4735;}
+    .clearfix{zoom:1;border:2px solid #ee4735;}
     .nav-left{float:left; width:198px; border-right:1px solid #ccc; text-align:center; line-height:50px; font-size:26px; font-weight:700;color:#fff;}
     .nav-right{float:left; width:800px;}
     .nav-right a{display:inline-block; width:125px; line-height:50px; text-align:center; color:#fff; font-size:18px; font-weight:600;}
@@ -100,19 +100,19 @@
     	    	<form action="/messageData/goSearch" id="topSearch" method="POST">
     	    		<input type="hidden" name="title" id="title"/>
     	    		<input type="hidden" name="content" id="content"/>
-	    	    	<div class="div_sear clearfix">
-	    	    		<div class="sel">
+	    	    	<div class="div_sear">
+	    	    		<div class="sel clearfix" style="height:36px;">
 	    	    			<div class="selected" id="selected">标题</div>
 	    	    			<div class="selBox">
 	    	    				<p>标题</p>
 	    	    				<p>全文</p>
 	    	    			</div>
 	    	    		</div>
-	    	    		<input type="text" name="contentQuery" id="contentQuery" value="${contentQuery }" placeholder="请输入您的产品关键字"/>
+	    	    		<input class="clearfix" style="height:36px;" type="text" name="contentQuery" id="contentQuery" value="${contentQuery }" placeholder="请输入您的产品关键字"/>
 	    	    		<span onclick="topSearch();">搜索</span>
 	    	    	</div>
     	    	</form>
-    	    	<div class="ssgjz" style="margin-top:8px;">
+    	    	<div class="ssgjz" style="margin-top:45px;font-weight: bold;">
     	    		<a href="#">热门招标：</a>
     	    		<a href="/messageData/goSearch?title=物业">物业</a>
     	    		<a href="/messageData/goSearch?title=律师">律师</a>
@@ -131,7 +131,7 @@
     	</div>
     </div>
 </div>
-<div class="top-nav clearfix">
+<div class="top-nav clearfix" style="border:1px solid #1d59bd;">
     	<a href="/index/index"><div class="nav-left">物业招标网</div></a>
     	<div class="nav-right">
     		<a href="/messageData/goSearch?messagetype=1">招标公告</a>
