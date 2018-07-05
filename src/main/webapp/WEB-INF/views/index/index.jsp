@@ -389,7 +389,7 @@
                         <c:import url="/messageData/getDataByMessagetype?messagetype=2&frontmodule=3"/>
                     </div>
                 </div>
-                <div class="notice">
+                <div class="notice" style="height: 187px;">
                     <div class="n_title clearfix" id="tab-div" style="border:0px solid #1d59bd;">
                         <div class="no_left" id="BCC1">
                             <a href="/messageData/goSearchProprietor?type=1" style="font-size: 15px;font-weight: bold;"><b>业主库</b></a>
@@ -465,15 +465,15 @@
                         </ul>
                     </div>
                 </div>
-                <div class="kuang">
+                <div class="kuang" style="height:289px;">
                     <div class="kuang_list">
                         <ul>
-                            <c:import url="/messageData/getFrontDataByType?type=4&num=12"/>
+                            <c:import url="/messageData/getFrontDataByType?type=4&num=11"/>
                         </ul>
                     </div>
                 </div>
 
-                <div class="kuang" style="height: 205px;">
+                <div class="kuang" style="height: 235px;">
                     <div class="title2">
                         <h3 class="Y-t">
                             <a href="#" title="" target="_blank" class="rightcss"
@@ -486,7 +486,7 @@
                         <ul>
                             <li class="li_last" style="border:0px solid #e7e7e7; border-top:0;">
                                 <ul>
-                                    <c:import url="/messageData/getFrontDataByType?type=1&num=6"/>
+                                    <c:import url="/messageData/getFrontDataByType?type=1&num=7"/>
                                 </ul>
                             </li>
                         </ul>
