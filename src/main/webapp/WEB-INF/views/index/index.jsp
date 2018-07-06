@@ -109,8 +109,8 @@
                     </div>
                 </div>
                 <div class="kuang">
-                    <div class="title" style="border-bottom: 1px solid #e7e7e7; height: 32px;background-color: #ee4735;width: 493px;">
-                        <h3 class="vip_sj" style="background-color: #ee4735;width: 493px;">
+                    <div class="title" style="border-bottom: 1px solid #e7e7e7; height: 32px;width: 493px;">
+                        <h3 class="vip_sj" style="background-color: #ee4735;width: 111px;">
                             <a href="#" title="" target="_blank" style="font-size: 18px;font-weight: bold;color: #fff;">
                                 推荐项目
                             </a>
