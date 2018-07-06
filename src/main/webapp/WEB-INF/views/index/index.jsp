@@ -64,12 +64,12 @@
         <div class="diyilan">
             <div class="yi_left">
                 <div class="kuang">
-                    <div class="title" style="background-color: #f6f6f6; border-bottom: 1px solid #e7e7e7;
+                    <div class="title" style="background-color: #ee4735; border-bottom: 1px solid #e7e7e7;
                         padding-left: 0px;">
                         <div class="bghh">
                             <h3 class="Y-t">
                                 <a href="#" title="热点信息" target="_blank"
-                                   style="font-size: 18px;font-weight: bold;">热点信息</a>
+                                   style="font-size: 18px;font-weight: bold;color: #fff">热点信息</a>
                             </h3>
                             <div class="clear">
                             </div>
@@ -109,9 +109,9 @@
                     </div>
                 </div>
                 <div class="kuang">
-                    <div class="title" style="border-bottom: 1px solid #e7e7e7; height: 32px;">
-                        <h3 class="vip_sj">
-                            <a href="#" title="" target="_blank" class="ff" style="font-size: 18px;font-weight: bold;">
+                    <div class="title" style="border-bottom: 1px solid #e7e7e7; height: 32px;background-color: #ee4735;width: 493px;">
+                        <h3 class="vip_sj" style="background-color: #ee4735;width: 493px;">
+                            <a href="#" title="" target="_blank" style="font-size: 18px;font-weight: bold;color: #fff;">
                                 推荐项目
                             </a>
                             <div class="clear">
@@ -192,9 +192,9 @@
                     </div>
                 </div>
                 <div class="kuang">
-                    <div class="title" style="border-bottom: 1px solid #e7e7e7; height: 32px;">
+                    <div class="title" style="border-bottom: 1px solid #e7e7e7; height: 32px;background-color: #ee4735;">
                         <h3 class="vip_sj">
-                            <a href="#" title="" target="_blank" class="ff" style="font-size: 18px;font-weight: bold;">
+                            <a href="#" title="" target="_blank" style="font-size: 18px;font-weight: bold;color: #fff;">
                                 优秀供应商
                             </a>
                             <div class="clear">
@@ -344,7 +344,7 @@
                         </li>
                         <li class="li_last" style="border:1px solid #e7e7e7; border-top:0;height: 238px;">
                             <a href="#" target="_blank" class="header closed opened"
-                               style="font-size: 18px;font-weight: bold;color: #fff;background-color: #f30d0d; ">
+                               style="font-size: 18px;font-weight: bold;color: #fff;background-color: #ee4735; ">
                                 <em class="">&nbsp;</em>展会信息
                             </a>
                             <ul style="padding-top:12px; padding-bottom:9px;">
@@ -359,7 +359,7 @@
                     <div class="n_title" id="move-animate-top1">
                         <h3 class="x_hua" style="font-size: 18px;font-weight: bold;">
                             <a href="/messageData/goSearch?messagetype=5" title="" target="_blank" class="ff"
-                               style="font-size: 18px;font-weight: bold;background-color: #fff;color: #f30d0d;">VIP独家</a>
+                               style="font-size: 18px;font-weight: bold;background-color: #fff;color: #ee4735;">VIP独家</a>
                         </h3>
                         <div class="clear"></div>
                     </div>
@@ -371,7 +371,7 @@
                     <div class="n_title" id="move-animate-top1">
                         <h3 class="x_hua" style="font-size: 18px;font-weight: bold;">
                             <a href="/messageData/goSearch?messagetype=4" title="" target="_blank" class="ff"
-                               style="font-size: 18px;font-weight: bold;background-color: #fff;color: #f30d0d;">拟在建项目</a>
+                               style="font-size: 18px;font-weight: bold;background-color: #fff;color: #ee4735;">拟在建项目</a>
                         </h3>
                         <div class="clear"></div>
                     </div>
@@ -383,7 +383,7 @@
                     <div class="n_title" id="move-animate-top1">
                         <h3 class="x_hua" style="font-size: 18px;font-weight: bold;">
                             <a href="/messageData/goSearch?messagetype=1" title="" target="_blank" class="ff"
-                               style="font-size: 18px;font-weight: bold;background-color: #fff;color: #f30d0d;">招标公告</a>
+                               style="font-size: 18px;font-weight: bold;background-color: #fff;color: #ee4735;">招标公告</a>
                         </h3>
                         <div class="clear"></div>
                     </div>
@@ -395,7 +395,7 @@
                     <div class="n_title" id="move-animate-top1">
                         <h3 class="x_hua" style="font-size: 18px;font-weight: bold;">
                             <a href="/messageData/goSearch?messagetype=2" title="" target="_blank" class="ff"
-                               style="font-size: 18px;font-weight: bold;background-color: #fff;color: #f30d0d;">中标公告</a></h3>
+                               style="font-size: 18px;font-weight: bold;background-color: #fff;color: #ee4735;">中标公告</a></h3>
                         <div class="clear"></div>
                     </div>
                     <div class="n_content" id="con_BC_1" style="padding-bottom: 0;">
@@ -405,7 +405,7 @@
                 <div class="notice" style="height: 187px;">
                     <div class="n_title clearfix" id="tab-div" style="border:0px solid #1d59bd;">
                         <div class="no_left" id="BCC1">
-                            <a href="/messageData/goSearchProprietor?type=1" style="font-size: 15px;font-weight: bold;background-color: #fff;color: #f30d0d;"><b>业主库</b></a>
+                            <a href="/messageData/goSearchProprietor?type=1" style="font-size: 15px;font-weight: bold;background-color: #fff;color: #ee4735;"><b>业主库</b></a>
                         </div>
                         <div class="no_right" id="BCC2">
                             <a href="/messageData/goSearchProprietor?type=2" style="font-size: 15px;font-weight: bold;"><b>设计院库</b></a>
@@ -487,7 +487,7 @@
                 </div>
 
                 <div class="kuang" style="height: 235px;">
-                    <div class="title2" style="background-color: #f30d0d;">
+                    <div class="title2" style="background-color: #ee4735;">
                         <h3 class="Y-t">
                             <a href="#" title="" target="_blank" class="rightcss"
                                style="font-size: 18px;font-weight: bold;color: #fff;">行业动态</a>

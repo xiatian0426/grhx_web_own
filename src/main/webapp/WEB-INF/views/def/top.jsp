@@ -112,7 +112,7 @@
 	    	    		<span onclick="topSearch();">搜索</span>
 	    	    	</div>
     	    	</form>
-    	    	<div class="ssgjz" style="margin-top:45px;font-weight: bold;">
+    	    	<div class="ssgjz" style="margin-top:45px;">
     	    		<a href="#">热门招标：</a>
     	    		<a href="/messageData/goSearch?title=物业">物业</a>
     	    		<a href="/messageData/goSearch?title=律师">律师</a>
