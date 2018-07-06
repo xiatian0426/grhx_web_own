@@ -81,7 +81,7 @@
 	    .pagination li{float:left; padding:2px 10px;font-size:10px;font-weight:bold;}
 	    .on{
 	    	color:#ffffff;
-	    	background-color: #c12121;
+	    	background-color: #ee4735;
 	    }
 	    .cityBox span{
 	    	display: inline-block;
@@ -91,7 +91,7 @@
 	    }
 	    .pro_span{
 	    	padding: 6px 13px;
-	    	background-color:#4562ef;
+	    	background-color:#ee4735;
 	    	color: #fff;
 	    	border-radius:10px;
 	    }
@@ -147,30 +147,30 @@
     	    		</c:forEach>
     	    	</div>
 			<button type="submit" class="btn btn-default"
-					style="background-color:#4562ef;padding: 6px 13px;border:none;color:#fff;">搜索</button>
+					style="background-color:#ee4735;padding: 6px 13px;border:none;color:#fff;">搜索</button>
 			<br />
 			<div><span></span></div>
 		</div>
 
 <div class="r_box" style="margin-bottom: 10px;">
-	<table width="100%" cellpadding="0" cellspacing="0" class="table-bordered" style="border: 2px solid #307DB4;">
-		<tr style="height:30px;background-color: #CCE4F7;">
-			<td width="76%" align="left" style="padding-left:60px; font-size: 17px;font-weight: bold;border: 1px solid #CCE4F7;">
-				标题${contentQuery }
+	<table width="100%" cellpadding="0" cellspacing="0" class="table-bordered" style="border: 2px solid #ee4735;">
+		<tr style="height:30px;background-color: #ee4735;">
+			<td width="76%" align="left" style="padding-left:60px; font-size: 17px;font-weight: bold;border: 1px solid #ee4735;color: #fff;">
+				标题
 			</td>
-			<td width="8%" align="center" style="font-size: 17px;font-weight: bold;border: 1px solid #CCE4F7;">
+			<td width="8%" align="center" style="font-size: 17px;font-weight: bold;border: 1px solid #ee4735;color: #fff;">
 				地区
 			</td>
-			<td width="8%" align="center" style="font-size: 17px;font-weight: bold;border: 1px solid #CCE4F7;">
+			<td width="8%" align="center" style="font-size: 17px;font-weight: bold;border: 1px solid #ee4735;color: #fff;">
 				类型
 			</td>
-			<td width="8%" align="center" style="font-size: 17px;font-weight: bold;border: 1px solid #CCE4F7;">
+			<td width="8%" align="center" style="font-size: 17px;font-weight: bold;border: 1px solid #ee4735;color: #fff;">
 				日期
 			</td>
 		</tr>
 		<c:forEach items="${page.result}" var="messageData" varStatus="count">
 			<tr>
-				<td align="left"  title="${messageData.title}" style="border: 1px solid #CCE4F7;">
+				<td align="left"  title="${messageData.title}" style="border: 1px dashed #ee4735;">
 					<a href="/messageData/dataDetail?id=${messageData.id}" target="_blank" style="font-size:14px;color: black;">
 						<%
 							String contentQuery2 = "<font color='red'>" +(String)request.getAttribute("contentQuery")+"</font>"; 
@@ -184,13 +184,13 @@
 						</c:if>	
 					</a>
 				</td>
-				<td align="center"  style="border: 1px solid #CCE4F7;">
+				<td align="center"  style="border: 1px dashed #ee4735;">
 					${messageData.provincename}
 				</td>
-				<td align="center"  style="border: 1px solid #CCE4F7;">
+				<td align="center"  style="border: 1px dashed #ee4735;">
 					${messageData.messagename}
 				</td>
-				<td align="center"  style="border: 1px solid #CCE4F7;">
+				<td align="center"  style="border: 1px dashed #ee4735;">
 					${messageData.dateString}
 				</td>
 			</tr>

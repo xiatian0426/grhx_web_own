@@ -263,7 +263,7 @@
                     <ul id="accoradion02" class="accoradion" style="width: 223px;" hovering="false">
                         <li class="active">
                             <a href="#" target="_blank" class="header closed opened"
-                               style="font-size: 18px;font-weight: bold;">
+                               style="font-size: 18px;font-weight: bold;color: #000;">
                                 <em class="">&nbsp;</em>物业
                             </a>
                             <ul style="display: block; height: 130px;">
@@ -282,7 +282,7 @@
                         </li>
                         <li class="active">
                             <a href="#" target="_blank" class="header closed opened"
-                               style="font-size: 18px;font-weight: bold;">
+                               style="font-size: 18px;font-weight: bold;color: #000;">
                                 <em class="">&nbsp;</em>保洁
                             </a>
                             <ul style="display: block; height: 130px;">
@@ -301,7 +301,7 @@
                         </li>
                         <li class="active">
                             <a href="#" target="_blank" class="header closed opened"
-                               style="font-size: 18px;font-weight: bold;">
+                               style="font-size: 18px;font-weight: bold;color: #000;">
                                 <em class="">&nbsp;</em>保安
                             </a>
                             <ul style="display: block; height: 130px;">
@@ -319,7 +319,7 @@
                             </ul>
                         </li>
                         <li class="active" style="height: 169px;border-left:1px solid #e7e7e7;border-right:1px solid #e7e7e7;">
-                            <a href="#" target="_blank" class="header closed opened" style="font-size: 18px;font-weight: bold;">
+                            <a href="#" target="_blank" class="header closed opened" style="font-size: 18px;font-weight: bold;color: #000;">
                                 <em class="">&nbsp;</em>其它
                             </a>
                             <ul style="display: block; height: 100px;">
@@ -515,7 +515,7 @@
         <div class="other">
             <div class="lan">
                 <div class="er_title">
-                    <h3 class="x_hua" style="font-size: 18px;font-weight: bold;">
+                    <h3 class="x_hua" style="font-size: 18px;font-weight: bold;border-bottom:2px solid #ee4735;color:#ee4735;">
                         地区导航
                     </h3>
                     <div class="clear">
@@ -584,7 +584,7 @@
             </div>
             <div class="lan">
                 <div class="er_title">
-                    <h3 class="x_hua" style="font-size: 18px;font-weight: bold;">
+                    <h3 class="x_hua" style="font-size: 18px;font-weight: bold;border-bottom:2px solid #ee4735;color:#ee4735; ">
                         友情链接
                     </h3>
                     <div class="clear">
