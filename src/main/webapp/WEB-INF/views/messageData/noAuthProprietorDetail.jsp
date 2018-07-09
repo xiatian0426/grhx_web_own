@@ -32,7 +32,7 @@
 <jsp:include  page="../def/top.jsp"/>
 <div class="main" style="height: 600px;width: 1000px;margin: 0 auto; background:#ecebeb;">
 	<div class="lujing">
-	  	<a href="#" style="font-size: 14px;border-left:5px solid #ee4735">&nbsp;位置&nbsp;></a>
+	  	<a href="#" style="font-size: 14px;border-left:5px solid #C5021B">&nbsp;位置&nbsp;></a>
 	   	<a href="/index/index" style="font-size: 14px;">首页&nbsp;></a>
 	   	<a href="#" style="font-size: 14px;">信息详情页</a>
   	</div>

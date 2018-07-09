@@ -17,7 +17,7 @@ a, a:visited {
 }
 
     a:hover {
-        color: #ee4735;
+        color: #C5021B;
         text-decoration: none;
         cursor: pointer;
     }
@@ -82,7 +82,7 @@ a, a:visited {
 }
 
 .daohang a:hover {
-    color: #ee4735;
+    color: #C5021B;
 }
 
 .top_right a {
@@ -168,7 +168,7 @@ a, a:visited {
 .sousuo {
     float: right;
     padding-right: 25px;
-    background-color: #ee4735;
+    background-color: #C5021B;
     font-size: 14px;
     height: 39px;
     border: 0px;
@@ -233,7 +233,7 @@ a, a:visited {
         text-align: center;
         font-size: 14px;
         line-height: 36px;
-        background-color: #ee4735;
+        background-color: #C5021B;
         color: #ffffff;
     }
 
@@ -274,7 +274,7 @@ a, a:visited {
     }
 
         .nav_content ul li a:hover {
-            color: #ee4735;
+            color: #C5021B;
             margin-left: 4px;
             padding: 3px;
         }
@@ -415,7 +415,7 @@ a, a:visited {
     .vip_sj .djxm {
         background-repeat: no-repeat;
         background-position: -121px -100px;
-        background-color: #ee4735;
+        background-color: #C5021B;
         font-size: 14px;
     }
 
@@ -431,7 +431,7 @@ a, a:visited {
 
 .mianfei {
     font-size: 14px;
-    color: #ee4735;
+    color: #C5021B;
     font-weight: normal;
     border-right: 1px solid #e7e7e7;
 }
@@ -469,7 +469,7 @@ a, a:visited {
 }
 
 .vip_table .xq {
-    color: #ee4735;
+    color: #C5021B;
 }
 
 .vip_t_tile tr td {
@@ -735,7 +735,7 @@ a, a:visited {
 }
 .zhuce .denglu {
     float: left;
-    background-color: #ee4735;
+    background-color: #C5021B;
     color: #ffffff;
 }
 .zhuce .denglu:hover {
@@ -847,7 +847,7 @@ a, a:visited {
 .er_left .title3, .san_left .title3 {
     background-repeat: no-repeat;
     background-position: left -197px;
-    background-color: #ee4735;
+    background-color: #C5021B;
     height: 33px;
     line-height: 33px;
     font-size: 14px;
@@ -958,7 +958,7 @@ a, a:visited {
     }
 
 .no_left a {
-    border-top: 2px solid #ee4735;
+    border-top: 2px solid #C5021B;
     display: block;
    
     background-color: #ffffff;
@@ -1041,7 +1041,7 @@ a, a:visited {
 
 .ico {
     float: left;
-    background-color: #ee4735;
+    background-color: #C5021B;
     margin-top: 10px;
     height: 15px;
     _margin-top: 15px;
@@ -1231,7 +1231,7 @@ a, a:visited {
 }
 
 .san_right .v_p_time {
-    background-color: #ee4735;
+    background-color: #C5021B;
     height: 15px;
     width: 15px;
     line-height: 15px;
@@ -1367,7 +1367,7 @@ a, a:visited {
 
 .yuefen {
     float: right;
-    color: #ee4735;
+    color: #C5021B;
     padding-right: 10px;
 }
 
@@ -1379,7 +1379,7 @@ a, a:visited {
 }
 
 .rili_bottom a {
-    color: #ee4735;
+    color: #C5021B;
 }
 
 .rili_bottom span {
@@ -1554,7 +1554,7 @@ a, a:visited {
 
     .tubiaoss a:hover {
         background-position: -80px -33px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb02 {
@@ -1563,7 +1563,7 @@ a, a:visited {
 
     .tubiaoss .tb02:hover {
         background-position: -150px -33px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb03 {
@@ -1572,7 +1572,7 @@ a, a:visited {
 
     .tubiaoss .tb03:hover {
         background-position: -220px -33px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb04 {
@@ -1581,7 +1581,7 @@ a, a:visited {
 
     .tubiaoss .tb04:hover {
         background-position: -285px -33px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb05 {
@@ -1590,7 +1590,7 @@ a, a:visited {
 
     .tubiaoss .tb05:hover {
         background-position: -345px -33px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb06 {
@@ -1599,7 +1599,7 @@ a, a:visited {
 
     .tubiaoss .tb06:hover {
         background-position: -405px -33px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb07 {
@@ -1608,7 +1608,7 @@ a, a:visited {
 
     .tubiaoss .tb07:hover {
         background-position: -470px -33px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb08 {
@@ -1617,7 +1617,7 @@ a, a:visited {
 
     .tubiaoss .tb08:hover {
         background-position: -537px -33px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb09 {
@@ -1626,7 +1626,7 @@ a, a:visited {
 
     .tubiaoss .tb09:hover {
         background-position: -600px -33px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb10 {
@@ -1635,7 +1635,7 @@ a, a:visited {
 
     .tubiaoss .tb10:hover {
         background-position: -660px -35px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb11 {
@@ -1644,7 +1644,7 @@ a, a:visited {
 
     .tubiaoss .tb11:hover {
         background-position: -725px -35px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb12 {
@@ -1653,7 +1653,7 @@ a, a:visited {
 
     .tubiaoss .tb12:hover {
         background-position: -785px -33px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb13 {
@@ -1662,7 +1662,7 @@ a, a:visited {
 
     .tubiaoss .tb13:hover {
         background-position: -855px -35px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb14 {
@@ -1671,7 +1671,7 @@ a, a:visited {
 
     .tubiaoss .tb14:hover {
         background-position: -927px -35px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb15 {
@@ -1680,7 +1680,7 @@ a, a:visited {
 
     .tubiaoss .tb15:hover {
         background-position: -990px -35px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb16 {
@@ -1689,7 +1689,7 @@ a, a:visited {
 
     .tubiaoss .tb16:hover {
         background-position: -1050px -35px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb17 {
@@ -1698,7 +1698,7 @@ a, a:visited {
 
     .tubiaoss .tb17:hover {
         background-position: -1103px -35px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb02a {
@@ -1707,7 +1707,7 @@ a, a:visited {
 
     .tubiaoss .tb02a:hover {
         background-position: -600px -150px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb06a {
@@ -1716,7 +1716,7 @@ a, a:visited {
 
     .tubiaoss .tb06a:hover {
         background-position: -662px -151px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb18 {
@@ -1725,7 +1725,7 @@ a, a:visited {
 
     .tubiaoss .tb18:hover {
         background-position: -153px -152px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb19 {
@@ -1734,7 +1734,7 @@ a, a:visited {
 
     .tubiaoss .tb19:hover {
         background-position: -407px -149px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb20 {
@@ -1743,7 +1743,7 @@ a, a:visited {
 
     .tubiaoss .tb20:hover {
         background-position: -472px -149px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb21 {
@@ -1752,7 +1752,7 @@ a, a:visited {
 
     .tubiaoss .tb21:hover {
         background-position: -540px -151px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb22 {
@@ -1761,7 +1761,7 @@ a, a:visited {
 
     .tubiaoss .tb22:hover {
         background-position: -220px -151px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb23 {
@@ -1770,7 +1770,7 @@ a, a:visited {
 
     .tubiaoss .tb23:hover {
         background-position: -283px -152px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 .tubiaoss .tb24 {
@@ -1779,7 +1779,7 @@ a, a:visited {
 
     .tubiaoss .tb24:hover {
         background-position: -347px -151px;
-        color: #ee4735;
+        color: #C5021B;
     }
 
 
@@ -1800,7 +1800,7 @@ a, a:visited {
     text-align: center;
     margin-top: -1px;
     width: 78px;
-    background-color:#ee4735;
+    background-color:#C5021B;
 }
 
 .bghh {
@@ -1859,7 +1859,7 @@ a, a:visited {
     }
 
 .focus {
-    background: #ee4735;
+    background: #C5021B;
 }
 
 .con {
@@ -2141,7 +2141,7 @@ a, a:visited {
         }
 
             .diqu_hover ul li.danqian a {
-                color: #ee4735;
+                color: #C5021B;
             }
 
 /* 返回顶部 */
@@ -2256,7 +2256,7 @@ a, a:visited {
 }
 
 .list-left a.color {
-    color: #ee4735;
+    color: #C5021B;
 }
 
 

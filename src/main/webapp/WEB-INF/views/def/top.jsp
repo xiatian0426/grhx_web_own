@@ -58,14 +58,14 @@
 <style>
     .top-nav{width:1000px; height:50px; background:#1d59bd; margin:0 auto; }
     .clearfix:after{display:block; content:'';clear:both;}
-    .clearfix{zoom:1;border:2px solid #ee4735;}
+    .clearfix{zoom:1;border:2px solid #C5021B;}
     .nav-left{float:left; width:198px; border-right:1px solid #ccc; text-align:center; line-height:50px; font-size:26px; font-weight:700;color:#fff;}
     .nav-right{float:left; width:800px;}
     .nav-right a{display:inline-block; width:125px; line-height:50px; text-align:center; color:#fff; font-size:18px; font-weight:600;}
 	.clearfix:after{clear:both; content:'';display:block;}
 	.header .div_sear .sel{cursor:pointer; margin-right:3px; line-height:40px; width:100px; text-align:center; height:40px; background:#fff; float:left;position:relative;}
 	.header .div_sear input{width:300px;float:left;}
-	.header .div_sear span{ width:60px; height:40px; font-weight:600; color:#fff; text-align:center; border:none; float:left; line-height:40px; cursor:pointer; background:#ee4735;}
+	.header .div_sear span{ width:60px; height:40px; font-weight:600; color:#fff; text-align:center; border:none; float:left; line-height:40px; cursor:pointer; background:#C5021B;}
 	.sel{position:relative;}
 	.selected{background:url(${imageRoot }/icon2.jpg) 68px 17px no-repeat;}
 	.sel .selBox{position:absolute; left:0; top:40px; background:#fff; width:100%; display:none;}
