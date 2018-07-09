@@ -405,7 +405,7 @@
                 <div class="notice" style="height: 187px;">
                     <div class="n_title clearfix" id="tab-div" style="border:0px solid #1d59bd;">
                         <div class="no_left" id="BCC1">
-                            <a href="/messageData/goSearchProprietor?type=1" style="font-size: 15px;font-weight: bold;background-color: #fff;color: #C5021B;"><b>业主库</b></a>
+                            <a href="/messageData/goSearchProprietor?type=1" style="font-size: 15px;font-weight: bold;"><b>业主库</b></a>
                         </div>
                         <div class="no_right" id="BCC2">
                             <a href="/messageData/goSearchProprietor?type=2" style="font-size: 15px;font-weight: bold;"><b>设计院库</b></a>

@@ -961,13 +961,13 @@ a, a:visited {
     border-top: 2px solid #C5021B;
     display: block;
    
-    background-color: #ffffff;
     height: 34px;
     border-right: 1px solid #e7e7e7;
     border-left: 1px solid #e7e7e7;
     padding: 0px 10px;
     margin-bottom: 0px;
     background-color: #ffffff;
+    color: #C5021B;
 }
 
 .no_right a {
