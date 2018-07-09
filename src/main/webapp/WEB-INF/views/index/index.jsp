@@ -56,7 +56,7 @@
 <jsp:include page="../def/top.jsp"/>
 
 <div id="middle">
-    <a href="http://agile-living.agile.com.cn/yjl/Index/index" target="_blank"><img src="${imageRoot }/hengfu1.png" width="100%" height="80px;"/></a>
+    <a href="http://www.szwuye.com.cn/" target="_blank"><img src="${imageRoot }/hengfu1.png" width="100%" height="80px;"/></a>
 </div>
 <div class="content">
     <div id="middle">

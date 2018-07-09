@@ -83,33 +83,33 @@
 					<option value="3" <c:if test="${query.type=='3' }">selected="selected"</c:if>>代理机构库</option>
 				</select>
 			<button type="submit" class="btn btn-default"
-					style="background-color:#4562ef;padding: 6px 13px;border:none;color:#fff;">搜索</button>
+					style="background-color:#C5021B;padding: 6px 13px;border:none;color:#fff;">搜索</button>
 			<br />
 			<div><span></span></div>
 		</div>
 
 <div class="r_box" style="margin-bottom: 10px;">
-	<table width="100%" cellpadding="0" cellspacing="0" class="table-bordered" style="border: 2px solid #307DB4;">
-		<tr style="height:30px;background-color: #CCE4F7;" >
-			<td width="10%" align="center" style="font-size: 17px;font-weight: bold;border: 1px solid #CCE4F7;">
+	<table width="100%" cellpadding="0" cellspacing="0" class="table-bordered" style="border: 2px solid #C5021B;">
+		<tr style="height:30px;background-color: #C5021B;" >
+			<td width="10%" align="center" style="font-size: 17px;font-weight: bold;border: 1px solid #C5021B;">
 				序号
 			</td>
-			<td width="60%" align="left" style="font-size: 17px;font-weight: bold;border: 1px solid #CCE4F7;">
+			<td width="60%" align="left" style="font-size: 17px;font-weight: bold;border: 1px solid #C5021B;">
 				名称
 			</td>
-			<td width="30%" align="left" style="font-size: 17px;font-weight: bold;border: 1px solid #CCE4F7;border-right: 2px solid #307DB4;">
+			<td width="30%" align="left" style="font-size: 17px;font-weight: bold;border: 1px solid #C5021B;border-right: 2px solid #C5021B;">
 				类型
 			</td>
 		</tr>
 		<c:forEach items="${page.result}" var="proprietor" varStatus="count">
 			<tr>
-				<td align="center"  style="border: 1px solid #CCE4F7;">
+				<td align="center"  style="border: 1px dashed #C5021B;">
 					${count.count}
 				</td>
-				<td align="left"  style="border: 1px solid #CCE4F7;">
+				<td align="left"  style="border: 1px dashed #C5021B;">
 					<a href="/messageData/proprietorDetail?id=${proprietor.id}'">&nbsp;${proprietor.company}</a>
 				</td>
-				<td align="left"  style="border: 1px solid #CCE4F7;border-right: 2px solid #307DB4;">
+				<td align="left"  style="border: 1px dashed #C5021B;border-right: 2px solid #C5021B;">
 					<c:if test="${proprietor.type=='1' }">&nbsp;业主库</c:if>
 					<c:if test="${proprietor.type=='2' }">&nbsp;设计院库</c:if>
 					<c:if test="${proprietor.type=='3' }">&nbsp;代理机构库</c:if>
