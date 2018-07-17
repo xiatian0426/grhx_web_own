@@ -108,7 +108,7 @@
 	    	    				<p>全文</p>
 	    	    			</div>
 	    	    		</div>
-	    	    		<input class="clearfix" style="height:36px;" type="text" name="contentQuery" id="contentQuery" value="${contentQuery }" placeholder="请输入您的产品关键字"/>
+	    	    		<input class="clearfix" style="height:36px;border:2px solid #C5021B;" type="text" name="contentQuery" id="contentQuery" value="${contentQuery }" placeholder="请输入您的产品关键字"/>
 	    	    		<span onclick="topSearch();">搜索</span>
 	    	    	</div>
     	    	</form>
