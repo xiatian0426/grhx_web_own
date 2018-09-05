@@ -115,11 +115,11 @@
     	    	<div class="ssgjz" style="margin-top:45px;">
     	    		<a href="#">热门招标：</a>
     	    		<a href="/messageData/goSearch?title=物业">物业</a>
-    	    		<a href="/messageData/goSearch?title=律师">律师</a>
-    	    		<a href="/messageData/goSearch?title=环保">环保</a>
-    	    		<a href="/messageData/goSearch?title=餐饮">餐饮</a>
-    	    		<a href="/messageData/goSearch?title=装饰">装饰</a>
-    	    		<a href="/messageData/goSearch?title=电梯">电梯</a>
+    	    		<a href="/messageData/goSearch?title=保安">保安</a>
+    	    		<a href="/messageData/goSearch?title=保洁">保洁</a>
+    	    		<a href="/messageData/goSearch?title=安保">安保</a>
+    	    		<a href="/messageData/goSearch?title=清洁">清洁</a>
+    	    		<a href="/messageData/goSearch?title=清洗">清洗</a>
     	    	</div>
     	    </div>
     	    <div style="width:148px;float:right;margin-top: 18px;">

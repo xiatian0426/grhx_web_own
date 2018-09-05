@@ -86,7 +86,7 @@
                     <div class="main_visual">
                         <div class="flicking_con">
                             <a class="a01" href="http://www.kleclean.com/index.asp" target="_blank">1</a>
-                            <a class="a01" href="http://www.chinacityguard.com.cn/" target="_blank">2</a>
+                            <a class="a01" href="http://www.cqhuazhong.com/" target="_blank">2</a>
                             <a class="a03" href="http://www.hzbjwy.com/" target="_blank">3</a>
                             <a href="http://www.cspbj.com/" target="_blank">4</a>
                             <a href="http://www.cc-pg.cn/index.aspx" target="_blank">5</a>
@@ -98,7 +98,7 @@
                                 <li><a href="http://www.cspbj.com/" target="_blank"><span class="img_4"></span></a></li>
                                 <li><a href="http://www.cc-pg.cn/index.aspx" target="_blank"><span class="img_1"></span></a>
                                 </li>
-                                <li><a href="http://www.chinacityguard.com.cn/" target="_blank"><span
+                                <li><a href="http://www.cqhuazhong.com/" target="_blank"><span
                                         class="img_2"></span></a></li>
                                 <li><a href="http://www.kleclean.com/index.asp" target="_blank"><span
                                         class="img_5"></span></a></li>
